@@ -1,6 +1,6 @@
 # EXERCICIO: CALCULANDO SENO, COSSENO E TANGENTE
 ## FUNCIONALIDADES
-- O programa tem como objetivo mostrar para o usuário o nome, notas e média dos alunos que vão ser informados
+- O programa tem como objetivo mostrar para o usuário o nome, notas e média dos alunos que vão ser informados pelos usuários
 
 ## TECNOLOGIAS UTILIZADAS
 - Pyhton 3
