@@ -1,4 +1,4 @@
-# EXERCICIO: CALCULANDO SENO, COSSENO E TANGENTE
+# EXERCICIO: CALCULANDO NOTAS E MÉDIA DOS ALUNOS
 ## FUNCIONALIDADES
 - O programa tem como objetivo mostrar para o usuário o nome, notas e média dos alunos que vão ser informados 
 
